@@ -1,8 +1,6 @@
 {
   "version": "1.0.4",
-  "version_code": 13,
-  "apk_url": "https://expo.dev/artifacts/eas/dJInCOOL_cAOI6Rpc625JtdlTu0eq6GzV0prKMVl2M0.apk",
-  "message": "Nova verzija Pizzabooka je dostupna! Uklonjena je dodatna slika pri pokretanju aplikacije, ikona je smanjena i centrirana, Google prijava je poboljšana, a update obavijest se sada prikazuje samo jednom po verziji.",
-  "github_url": "https://github.com/branimirjeli-svg/pizzabook",
-  "github_message": "Nova verzija Pizzabooka je dostupna na GitHubu."
+  "version_code": 17,
+  "apk_url": "https://expo.dev/artifacts/eas/-8e4ta9ljvxlGYZ0T6k5nnJznBmgtl8r48EA4Q2ZYHw.apk",
+  "message": "Dostupna je nova verzija Pizzabooka. Ispravljen je problem sa sinkronizacijom Beginner obavijesti koji je mogao uzrokovati brisanje alarma novijeg plana."
 }
